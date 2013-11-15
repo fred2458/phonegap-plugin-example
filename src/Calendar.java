@@ -34,5 +34,6 @@ public class Calendar extends CordovaPlugin {
             callbackContext.error(e.getMessage());
             return false;
         }
+    }
 }
 
